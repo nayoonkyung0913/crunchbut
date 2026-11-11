@@ -1393,3 +1393,7 @@
  #cb-detail[data-crunchbut-version="0.2.6"] #cb-flavors .cb-flavor-ingredients{grid-area:jars;align-self:end;justify-self:end;width:30%;height:25cqw;max-height:130px;max-width:150px;margin:0 0 2% 0;display:flex;align-items:flex-end;justify-content:center;z-index:2;pointer-events:none}
  #cb-detail[data-crunchbut-version="0.2.6"] #cb-flavors .cb-flavor-ingredients img{width:100%;height:100%;object-fit:contain;object-position:center bottom}
 }
+
+/* Enlarge both hero packages equally without changing their entry motion. */
+#cb-detail[data-crunchbut-version="0.2.6"] .cb-hero-meet .hero .hero-art>.photo,
+#cb-detail[data-crunchbut-version="0.2.6"] .cb-hero-meet .hero .hero-art>.cb-hero-mini{scale:1.1}
