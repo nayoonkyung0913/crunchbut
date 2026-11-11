@@ -84,13 +84,6 @@
     "bytes": 2443310
   },
   {
-    "source": "pastry-baked-025.png",
-    "file": "pastry-baked-025-084f4a7562f5.png",
-    "url": "https://ecimg.cafe24img.com/pg3547b37711334091/nayoonk/web/upload/crunchbut/pastry-baked-025-084f4a7562f5.png",
-    "sha256": "084f4a7562f53976eb0dfb8476c0d5c185c07896f67c0c24189f76cdecc27dde",
-    "bytes": 2646083
-  },
-  {
     "source": "oven-after.png",
     "file": "oven-after-6e47ef60b765.png",
     "url": "https://ecimg.cafe24img.com/pg3547b37711334091/nayoonk/web/upload/crunchbut/oven-after-6e47ef60b765.png",
@@ -124,5 +117,12 @@
     "url": "https://ecimg.cafe24img.com/pg3547b37711334091/nayoonk/web/upload/crunchbut/gallery-trio-v3-ad25f8d9eb1e.svg",
     "sha256": "ad25f8d9eb1eaeb559f23812569c8170fb1d08281a5851bc4aebbc707b9cf6cd",
     "bytes": 3103244
+  },
+  {
+    "source": "pastry-baked-photo.png",
+    "file": "pastry-baked-photo-c8f98bd477d8.png",
+    "url": "https://ecimg.cafe24img.com/pg3547b37711334091/nayoonk/web/upload/crunchbut/pastry-baked-photo-c8f98bd477d8.png",
+    "sha256": "c8f98bd477d8b534ddb5a18a33609d74ef917bab5ac6269524f964c2314d1eb4",
+    "bytes": 2683741
   }
 ]
