@@ -3,7 +3,7 @@
     <div aria-hidden="true" class="hero-type">CRUNCHBUT<span>SPREAD THE HAPPY.</span></div>
     <div class="hero-art"><div class="photo"><img src="https://ecimg.cafe24img.com/pg3547b37711334091/nayoonk/web/upload/crunchbut/melon-pack-v2-e554230b2413.svg" alt="크런치벗 메론 스프레드 100ml" width="1250" height="1510" fetchpriority="high"></div><img class="cb-hero-mini" src="https://ecimg.cafe24img.com/pg3547b37711334091/nayoonk/web/upload/crunchbut/kouign-pack-v2-a0f57f9db08c.svg" alt="크런치벗 퀸아망 스프레드 100ml" width="1250" height="1510" fetchpriority="high"></div>
     <div class="hero-caption"><h1>바르고 굽는 순간,<br>우리 집이 디저트 카페.</h1><a href="#cb-about">SCROLL TO TASTE ↓</a></div>
-    
+
   </section>
 
   <section class="intro center" id="cb-about">
