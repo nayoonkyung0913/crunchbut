@@ -91,13 +91,6 @@
     "bytes": 2961223
   },
   {
-    "source": "oven-before-product.png",
-    "file": "oven-before-product-51414880918f.png",
-    "url": "https://ecimg.cafe24img.com/pg3547b37711334091/nayoonk/web/upload/crunchbut/oven-before-product-51414880918f.png",
-    "sha256": "51414880918f6472910c68fdde872d1b6a4da841b3697c4ae6ee5efa22b6c8eb",
-    "bytes": 1971042
-  },
-  {
     "source": "gallery-kouign-wide.png",
     "file": "gallery-kouign-wide-c608572317ac.png",
     "url": "https://ecimg.cafe24img.com/pg3547b37711334091/nayoonk/web/upload/crunchbut/gallery-kouign-wide-c608572317ac.png",
@@ -124,5 +117,12 @@
     "url": "https://ecimg.cafe24img.com/pg3547b37711334091/nayoonk/web/upload/crunchbut/pastry-baked-cutout-e0824f1c6187.png",
     "sha256": "e0824f1c61871383b3fa942b412d956dd3c9f962f4e24c9591fcfd3b8c0aa5d8",
     "bytes": 2498137
+  },
+  {
+    "source": "oven-before-spread.png",
+    "file": "oven-before-spread-51414880918f.png",
+    "url": "https://ecimg.cafe24img.com/pg3547b37711334091/nayoonk/web/upload/crunchbut/oven-before-spread-51414880918f.png",
+    "sha256": "51414880918f6472910c68fdde872d1b6a4da841b3697c4ae6ee5efa22b6c8eb",
+    "bytes": 1971042
   }
 ]

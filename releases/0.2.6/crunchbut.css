@@ -1373,3 +1373,14 @@
 #cb-detail[data-crunchbut-version="0.2.6"] .cb-hero-meet .hero .hero-art>.cb-hero-mini{left:51%;transform:translate3d(var(--meet-small-x,0px),0,0) rotate(var(--meet-small-angle,4deg))}
 
 
+
+/* Keep the before photo rectangular, including when older common styles coexist. */
+#cb-detail[data-crunchbut-version] #cb-texture .cb-bake-visual .cb-before{clip-path:none!important;-webkit-mask-image:none!important;mask-image:none!important}
+#cb-detail .cb-enjoy-ribbon{width:100%;overflow:hidden;background:#4b392b;color:#fff8e9;padding:26px 0}
+#cb-detail .cb-enjoy-ribbon-track{display:flex;width:max-content;animation:cb-enjoy-ribbon-slide 28s linear infinite}
+#cb-detail .cb-enjoy-ribbon-track>span{flex:none;white-space:nowrap;font-size:clamp(28px,3.8vw,62px);font-weight:850;line-height:1.25;letter-spacing:-.04em;padding-right:48px}
+#cb-detail .cb-enjoy-ribbon-track b{font-weight:400;padding-left:22px}
+@keyframes cb-enjoy-ribbon-slide{to{transform:translateX(-50%)}}
+@media(max-width:700px){#cb-detail .cb-enjoy-ribbon{padding:20px 0}#cb-detail .cb-enjoy-ribbon-track>span{padding-right:28px}}
+@media(prefers-reduced-motion:reduce){#cb-detail .cb-enjoy-ribbon-track{animation:none}}
+#cb-detail.is-paused .cb-enjoy-ribbon-track{animation-play-state:paused}
