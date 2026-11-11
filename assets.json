@@ -1,12 +1,5 @@
 [
   {
-    "source": "gallery-trio.svg",
-    "file": "gallery-trio-fd737f24bb32.svg",
-    "url": "https://ecimg.cafe24img.com/pg3547b37711334091/nayoonk/web/upload/crunchbut/gallery-trio-fd737f24bb32.svg",
-    "sha256": "fd737f24bb3291df8828eb48921fe4eaaee4d60b56c9c27810736e008cc81047",
-    "bytes": 4366312
-  },
-  {
     "source": "ingredients-kouign-cutout.png",
     "file": "ingredients-kouign-cutout-c5a8ecdf6219.png",
     "url": "https://ecimg.cafe24img.com/pg3547b37711334091/nayoonk/web/upload/crunchbut/ingredients-kouign-cutout-c5a8ecdf6219.png",
@@ -112,17 +105,24 @@
     "bytes": 1971042
   },
   {
-    "source": "gallery-melon-wide.png",
-    "file": "gallery-melon-wide-5c5d9381ce62.png",
-    "url": "https://ecimg.cafe24img.com/pg3547b37711334091/nayoonk/web/upload/crunchbut/gallery-melon-wide-5c5d9381ce62.png",
-    "sha256": "5c5d9381ce62d02f8af3765a2867d38cbb9a7eddbead23fe8afdadbfe942feaa",
-    "bytes": 2428339
-  },
-  {
     "source": "gallery-kouign-wide.png",
     "file": "gallery-kouign-wide-c608572317ac.png",
     "url": "https://ecimg.cafe24img.com/pg3547b37711334091/nayoonk/web/upload/crunchbut/gallery-kouign-wide-c608572317ac.png",
     "sha256": "c608572317acce85cb793f4ac7dbc35e619760e54f2fc8f43c37be8a363c1bb6",
     "bytes": 2605638
+  },
+  {
+    "source": "gallery-melon-v2.png",
+    "file": "gallery-melon-v2-7f9e555e9a9d.png",
+    "url": "https://ecimg.cafe24img.com/pg3547b37711334091/nayoonk/web/upload/crunchbut/gallery-melon-v2-7f9e555e9a9d.png",
+    "sha256": "7f9e555e9a9d29efe01e2284c3d8eacac1d3607761ad6be71153cd3f740f9f25",
+    "bytes": 2291236
+  },
+  {
+    "source": "gallery-trio-v2.svg",
+    "file": "gallery-trio-v2-4c7fc4f8daab.svg",
+    "url": "https://ecimg.cafe24img.com/pg3547b37711334091/nayoonk/web/upload/crunchbut/gallery-trio-v2-4c7fc4f8daab.svg",
+    "sha256": "4c7fc4f8daab97d5476752d1b94787b3206df0b0eaa7c6e0e272786b9e0d9c04",
+    "bytes": 3197116
   }
 ]
