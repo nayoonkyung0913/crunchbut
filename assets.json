@@ -63,11 +63,18 @@
     "bytes": 2062997
   },
   {
-    "source": "kouign-pack.svg",
-    "file": "kouign-pack-e55eee037fbe.svg",
-    "url": "https://ecimg.cafe24img.com/pg3547b37711334091/nayoonk/web/upload/crunchbut/kouign-pack-e55eee037fbe.svg",
-    "sha256": "e55eee037fbe15f5d1d30bceafb5412962f8d4d658194ce977385a4095b0dc02",
-    "bytes": 341503
+    "source": "kouign-pack-v2.svg",
+    "file": "kouign-pack-v2-a0f57f9db08c.svg",
+    "url": "https://ecimg.cafe24img.com/pg3547b37711334091/nayoonk/web/upload/crunchbut/kouign-pack-v2-a0f57f9db08c.svg",
+    "sha256": "a0f57f9db08cbf3372899704a1f3ee4bf19f31aba4453edd862a7f9b1fba4b14",
+    "bytes": 341540
+  },
+  {
+    "source": "kouign-pastry-v2.png",
+    "file": "kouign-pastry-v2-54ba176e11b5.png",
+    "url": "https://ecimg.cafe24img.com/pg3547b37711334091/nayoonk/web/upload/crunchbut/kouign-pastry-v2-54ba176e11b5.png",
+    "sha256": "54ba176e11b5fc9dbdd38164fa8c974d2eb6f88921aef6e7527d7a5f093c1efb",
+    "bytes": 2509920
   },
   {
     "source": "melon-baked-cutout.png",
@@ -77,11 +84,18 @@
     "bytes": 2020061
   },
   {
-    "source": "melon-pack.svg",
-    "file": "melon-pack-02d33241bfec.svg",
-    "url": "https://ecimg.cafe24img.com/pg3547b37711334091/nayoonk/web/upload/crunchbut/melon-pack-02d33241bfec.svg",
-    "sha256": "02d33241bfec2b9b788e6d820ee3ef804732a4814947d64b3e284eb59c5335fd",
-    "bytes": 309651
+    "source": "melon-fruit-v2.png",
+    "file": "melon-fruit-v2-3a5ce5bd6436.png",
+    "url": "https://ecimg.cafe24img.com/pg3547b37711334091/nayoonk/web/upload/crunchbut/melon-fruit-v2-3a5ce5bd6436.png",
+    "sha256": "3a5ce5bd643632ef3edec0f8f2ab55b8564f7ac46912c7b7e2e0e5802808bc9e",
+    "bytes": 2542392
+  },
+  {
+    "source": "melon-pack-v2.svg",
+    "file": "melon-pack-v2-e554230b2413.svg",
+    "url": "https://ecimg.cafe24img.com/pg3547b37711334091/nayoonk/web/upload/crunchbut/melon-pack-v2-e554230b2413.svg",
+    "sha256": "e554230b2413d54368f5c28416705f3fe489e144a018da571fe99627b01dd16c",
+    "bytes": 309688
   },
   {
     "source": "oven-after.png",
