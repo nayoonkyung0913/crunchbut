@@ -105,13 +105,6 @@
     "bytes": 2443310
   },
   {
-    "source": "pastry-spread-corrected.png",
-    "file": "pastry-spread-corrected-5282b70313f1.png",
-    "url": "https://ecimg.cafe24img.com/pg3547b37711334091/nayoonk/web/upload/crunchbut/pastry-spread-corrected-5282b70313f1.png",
-    "sha256": "5282b70313f155c62dddbb2848b98dec822374d46d6b2b14af251f72cfb9d679",
-    "bytes": 2187134
-  },
-  {
     "source": "oven-cutout.png",
     "file": "oven-cutout-4e7046ef4813.png",
     "url": "https://ecimg.cafe24img.com/pg3547b37711334091/nayoonk/web/upload/crunchbut/oven-cutout-4e7046ef4813.png",
@@ -124,5 +117,19 @@
     "url": "https://ecimg.cafe24img.com/pg3547b37711334091/nayoonk/web/upload/crunchbut/raw-toast-cutout-3194b03f884b.png",
     "sha256": "3194b03f884bda4916e598ea12676432018db9865233b4b986b9da9123979076",
     "bytes": 1927435
+  },
+  {
+    "source": "baked-toast-aligned.png",
+    "file": "baked-toast-aligned-c666118d3356.png",
+    "url": "https://ecimg.cafe24img.com/pg3547b37711334091/nayoonk/web/upload/crunchbut/baked-toast-aligned-c666118d3356.png",
+    "sha256": "c666118d33568047e94ef3dfc633ab61659e56637ab92c3c8cea79ea1a4a7ace",
+    "bytes": 2404038
+  },
+  {
+    "source": "pastry-baked-025.png",
+    "file": "pastry-baked-025-084f4a7562f5.png",
+    "url": "https://ecimg.cafe24img.com/pg3547b37711334091/nayoonk/web/upload/crunchbut/pastry-baked-025-084f4a7562f5.png",
+    "sha256": "084f4a7562f53976eb0dfb8476c0d5c185c07896f67c0c24189f76cdecc27dde",
+    "bytes": 2646083
   }
 ]
