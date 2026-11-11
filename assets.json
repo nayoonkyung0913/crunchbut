@@ -1,19 +1,5 @@
 [
   {
-    "source": "croissant-cutout.png",
-    "file": "croissant-cutout-1f1ae97649de.png",
-    "url": "https://ecimg.cafe24img.com/pg3547b37711334091/nayoonk/web/upload/crunchbut/croissant-cutout-1f1ae97649de.png",
-    "sha256": "1f1ae97649de5827383e584aa10e8cdfa395a2fd79448c66ec821e3cf963e7e5",
-    "bytes": 2299798
-  },
-  {
-    "source": "finish-step.svg",
-    "file": "finish-step-86e1ee891c8d.svg",
-    "url": "https://ecimg.cafe24img.com/pg3547b37711334091/nayoonk/web/upload/crunchbut/finish-step-86e1ee891c8d.svg",
-    "sha256": "86e1ee891c8df4c12e1e8d049bc80f58806fb135d0c6193e9948db82344ffc21",
-    "bytes": 261867
-  },
-  {
     "source": "gallery-kouign.svg",
     "file": "gallery-kouign-ab284dcc9a0f.svg",
     "url": "https://ecimg.cafe24img.com/pg3547b37711334091/nayoonk/web/upload/crunchbut/gallery-kouign-ab284dcc9a0f.svg",
@@ -33,13 +19,6 @@
     "url": "https://ecimg.cafe24img.com/pg3547b37711334091/nayoonk/web/upload/crunchbut/gallery-trio-fd737f24bb32.svg",
     "sha256": "fd737f24bb3291df8828eb48921fe4eaaee4d60b56c9c27810736e008cc81047",
     "bytes": 4366312
-  },
-  {
-    "source": "homecafe-cutout.png",
-    "file": "homecafe-cutout-5882065d53be.png",
-    "url": "https://ecimg.cafe24img.com/pg3547b37711334091/nayoonk/web/upload/crunchbut/homecafe-cutout-5882065d53be.png",
-    "sha256": "5882065d53be4074c0c53f57d86bc36bddcb1660892db98b21f1a853b3ab8f88",
-    "bytes": 1484318
   },
   {
     "source": "ingredients-kouign-cutout.png",
@@ -112,17 +91,45 @@
     "bytes": 2859273
   },
   {
-    "source": "oven-step.svg",
-    "file": "oven-step-269de855f8cd.svg",
-    "url": "https://ecimg.cafe24img.com/pg3547b37711334091/nayoonk/web/upload/crunchbut/oven-step-269de855f8cd.svg",
-    "sha256": "269de855f8cd3ae80d5c1777a271469519e7914b5cb45e1c3cb221840e4edc5a",
-    "bytes": 261869
+    "source": "spread-step-hd.webp",
+    "file": "spread-step-hd-dd2a25d1ec20.webp",
+    "url": "https://ecimg.cafe24img.com/pg3547b37711334091/nayoonk/web/upload/crunchbut/spread-step-hd-dd2a25d1ec20.webp",
+    "sha256": "dd2a25d1ec2028330a6ac9c8b369da4561dba8e8c4553a5190d5393805fd1e51",
+    "bytes": 422462
   },
   {
-    "source": "spread-step.svg",
-    "file": "spread-step-5ea326d8468b.svg",
-    "url": "https://ecimg.cafe24img.com/pg3547b37711334091/nayoonk/web/upload/crunchbut/spread-step-5ea326d8468b.svg",
-    "sha256": "5ea326d8468bd0c48f71a0739759ec0bf278b7481e507213b29ffb46084b7895",
-    "bytes": 261867
+    "source": "oven-step-hd.webp",
+    "file": "oven-step-hd-c3a597cb3861.webp",
+    "url": "https://ecimg.cafe24img.com/pg3547b37711334091/nayoonk/web/upload/crunchbut/oven-step-hd-c3a597cb3861.webp",
+    "sha256": "c3a597cb38617e2a515549d2a69bb4f5a66f972cfef7038a38a98025f1df7e2c",
+    "bytes": 366030
+  },
+  {
+    "source": "finish-step-hd.webp",
+    "file": "finish-step-hd-02c9d840cd41.webp",
+    "url": "https://ecimg.cafe24img.com/pg3547b37711334091/nayoonk/web/upload/crunchbut/finish-step-hd-02c9d840cd41.webp",
+    "sha256": "02c9d840cd41a3fd206e45c999a0950c6c08b59567ce2a1cfe60b0fccba0527b",
+    "bytes": 447700
+  },
+  {
+    "source": "kouign-baked-caramel.png",
+    "file": "kouign-baked-caramel-ffb4745f0fb6.png",
+    "url": "https://ecimg.cafe24img.com/pg3547b37711334091/nayoonk/web/upload/crunchbut/kouign-baked-caramel-ffb4745f0fb6.png",
+    "sha256": "ffb4745f0fb609963aaec084ccf7b0dad4b089f9002c618688fea02ebe114002",
+    "bytes": 2481714
+  },
+  {
+    "source": "croissant-real-texture.png",
+    "file": "croissant-real-texture-184c5804d8d9.png",
+    "url": "https://ecimg.cafe24img.com/pg3547b37711334091/nayoonk/web/upload/crunchbut/croissant-real-texture-184c5804d8d9.png",
+    "sha256": "184c5804d8d9e8df5df954473036432d58d1f31c30b95157e3fcfa1b248f15df",
+    "bytes": 2475574
+  },
+  {
+    "source": "homecafe-real-texture.png",
+    "file": "homecafe-real-texture-731a38c041f6.png",
+    "url": "https://ecimg.cafe24img.com/pg3547b37711334091/nayoonk/web/upload/crunchbut/homecafe-real-texture-731a38c041f6.png",
+    "sha256": "731a38c041f617a4acf46f8935cf271cd2d98d943ce82ba44048bf7732586cf6",
+    "bytes": 1482677
   }
 ]
