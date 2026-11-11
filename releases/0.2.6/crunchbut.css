@@ -1384,3 +1384,12 @@
 @media(max-width:700px){#cb-detail .cb-enjoy-ribbon{padding:20px 0}#cb-detail .cb-enjoy-ribbon-track>span{padding-right:28px}}
 @media(prefers-reduced-motion:reduce){#cb-detail .cb-enjoy-ribbon-track{animation:none}}
 #cb-detail.is-paused .cb-enjoy-ribbon-track{animation-play-state:paused}
+
+/* Mobile flavor artwork: centered package with a small lower-right accent. */
+@container cb-detail (max-width:760px){
+ #cb-detail[data-crunchbut-version="0.2.6"] #cb-flavors .flavor-panel:has(.cb-jar-pair){grid-template-columns:minmax(0,1fr);grid-template-areas:"jars" "description";grid-template-rows:auto auto;gap:24px;isolation:isolate}
+ #cb-detail[data-crunchbut-version="0.2.6"] #cb-flavors .cb-jar-pair{grid-area:jars;justify-self:center;align-self:center;width:100%;height:82cqw;max-height:420px;margin:0;display:flex;align-items:center;justify-content:center}
+ #cb-detail[data-crunchbut-version="0.2.6"] #cb-flavors .cb-jar-large{position:static;inset:auto;width:78%;height:100%;object-fit:contain;transform:none}
+ #cb-detail[data-crunchbut-version="0.2.6"] #cb-flavors .cb-flavor-ingredients{grid-area:jars;align-self:end;justify-self:end;width:30%;height:25cqw;max-height:130px;max-width:150px;margin:0 0 2% 0;display:flex;align-items:flex-end;justify-content:center;z-index:2;pointer-events:none}
+ #cb-detail[data-crunchbut-version="0.2.6"] #cb-flavors .cb-flavor-ingredients img{width:100%;height:100%;object-fit:contain;object-position:center bottom}
+}
