@@ -1323,8 +1323,8 @@
 #cb-detail #cb-flavors .cb-flavor-volume{margin-top:14px;padding-top:10px}
 #cb-detail #cb-flavors .cb-flavor-ingredients{grid-area:ingredient;align-self:start;width:100%;height:240px;display:flex;justify-content:flex-start}
 #cb-detail #cb-flavors .cb-flavor-ingredients img{height:100%;width:auto;max-width:100%;object-fit:contain}
-#cb-detail .cb-product-info{background:#fffdf7}
-#cb-detail .cb-product-info .cb-info{max-width:1000px;margin:auto;padding:80px 6%}
+#cb-detail .cb-product-info{width:100%;max-width:none;margin:0;background:var(--cb-info-background,#FBF4E7)}
+#cb-detail .cb-product-info .cb-info{max-width:1000px;margin:auto;padding:80px 6%;background:transparent}
 #cb-detail .cb-product-info .cb-nutrition{table-layout:fixed;width:100%;border-collapse:collapse;color:#302a22}
 #cb-detail .cb-product-info .cb-nutrition-title{font-size:21px;margin:28px 0 8px}
 #cb-detail .cb-product-info .cb-nutrition-intro{font-weight:650}
