@@ -30,7 +30,7 @@
 
   <section class="texture cb-squeeze-scroll cb-bake-scene" id="cb-texture" data-squeeze-scene aria-labelledby="cb-bake-title">
     <div class="cb-squeeze-stage" tabindex="0" role="group" aria-label="스크롤하며 보는 굽기 전과 후">
-      <div class="texture-photo cb-bake-visual"><img class="cb-before" src="https://ecimg.cafe24img.com/pg3547b37711334091/nayoonk/web/upload/crunchbut/oven-before-5d00fbbceac2.png" alt="오븐에 넣기 전, 메론 스프레드를 바른 식빵" loading="lazy"><img class="cb-after" src="https://ecimg.cafe24img.com/pg3547b37711334091/nayoonk/web/upload/crunchbut/oven-after-6e47ef60b765.png" alt="오븐에서 노릇하게 구워진 크런치벗 토스트" loading="lazy"></div>
+      <div class="texture-photo cb-bake-visual"><img class="cb-before" src="https://ecimg.cafe24img.com/pg3547b37711334091/nayoonk/web/upload/crunchbut/oven-before-product-51414880918f.png" alt="오븐에 넣기 전, 메론 스프레드를 바른 식빵" loading="lazy"><img class="cb-after" src="https://ecimg.cafe24img.com/pg3547b37711334091/nayoonk/web/upload/crunchbut/oven-after-6e47ef60b765.png" alt="오븐에서 노릇하게 구워진 크런치벗 토스트" loading="lazy"></div>
       <div class="cb-squeeze-copy"><p class="eyebrow">A LITTLE HEAT. A LOT OF HAPPY.</p><h2 class="title" id="cb-bake-title">바르고, 굽고.<br><strong>바삭함이 깨어나요.</strong></h2><p class="copy">180°C 오븐 · 에어프라이어<br>3–5분이면 디저트 완성.</p><p class="cb-squeeze-caption">노릇하게 구운 뒤 잠깐 식혀주세요.<br>겉은 바삭, 속은 촉촉한 한 입.</p><div class="cb-bake-meter" aria-hidden="true"><span></span></div><p class="cb-bake-status" data-bake-status>01 / 빵에 듬뿍 바르기</p></div>
     </div>
   </section>
