@@ -1,19 +1,5 @@
 [
   {
-    "source": "gallery-kouign.svg",
-    "file": "gallery-kouign-ab284dcc9a0f.svg",
-    "url": "https://ecimg.cafe24img.com/pg3547b37711334091/nayoonk/web/upload/crunchbut/gallery-kouign-ab284dcc9a0f.svg",
-    "sha256": "ab284dcc9a0f6e0e73e3b198f668bd8c2e393b08ccd944e781b55d5236baea96",
-    "bytes": 207923
-  },
-  {
-    "source": "gallery-melon.svg",
-    "file": "gallery-melon-a2fbd2bc94f3.svg",
-    "url": "https://ecimg.cafe24img.com/pg3547b37711334091/nayoonk/web/upload/crunchbut/gallery-melon-a2fbd2bc94f3.svg",
-    "sha256": "a2fbd2bc94f307277adf1ad626990804f34ad3dfb6761843a66e677b6381dd8a",
-    "bytes": 329960
-  },
-  {
     "source": "gallery-trio.svg",
     "file": "gallery-trio-fd737f24bb32.svg",
     "url": "https://ecimg.cafe24img.com/pg3547b37711334091/nayoonk/web/upload/crunchbut/gallery-trio-fd737f24bb32.svg",
@@ -124,5 +110,19 @@
     "url": "https://ecimg.cafe24img.com/pg3547b37711334091/nayoonk/web/upload/crunchbut/oven-before-product-51414880918f.png",
     "sha256": "51414880918f6472910c68fdde872d1b6a4da841b3697c4ae6ee5efa22b6c8eb",
     "bytes": 1971042
+  },
+  {
+    "source": "gallery-melon-wide.png",
+    "file": "gallery-melon-wide-5c5d9381ce62.png",
+    "url": "https://ecimg.cafe24img.com/pg3547b37711334091/nayoonk/web/upload/crunchbut/gallery-melon-wide-5c5d9381ce62.png",
+    "sha256": "5c5d9381ce62d02f8af3765a2867d38cbb9a7eddbead23fe8afdadbfe942feaa",
+    "bytes": 2428339
+  },
+  {
+    "source": "gallery-kouign-wide.png",
+    "file": "gallery-kouign-wide-c608572317ac.png",
+    "url": "https://ecimg.cafe24img.com/pg3547b37711334091/nayoonk/web/upload/crunchbut/gallery-kouign-wide-c608572317ac.png",
+    "sha256": "c608572317acce85cb793f4ac7dbc35e619760e54f2fc8f43c37be8a363c1bb6",
+    "bytes": 2605638
   }
 ]
