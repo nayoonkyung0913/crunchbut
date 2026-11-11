@@ -35,13 +35,6 @@
     "bytes": 1335560
   },
   {
-    "source": "kouign-baked-cutout.png",
-    "file": "kouign-baked-cutout-4dc2b1c6d9ba.png",
-    "url": "https://ecimg.cafe24img.com/pg3547b37711334091/nayoonk/web/upload/crunchbut/kouign-baked-cutout-4dc2b1c6d9ba.png",
-    "sha256": "4dc2b1c6d9bab870b15e8c7249ba39558135894571bbbec46fa90647361f312d",
-    "bytes": 2062997
-  },
-  {
     "source": "kouign-pack-v2.svg",
     "file": "kouign-pack-v2-a0f57f9db08c.svg",
     "url": "https://ecimg.cafe24img.com/pg3547b37711334091/nayoonk/web/upload/crunchbut/kouign-pack-v2-a0f57f9db08c.svg",
@@ -131,5 +124,12 @@
     "url": "https://ecimg.cafe24img.com/pg3547b37711334091/nayoonk/web/upload/crunchbut/homecafe-real-texture-731a38c041f6.png",
     "sha256": "731a38c041f617a4acf46f8935cf271cd2d98d943ce82ba44048bf7732586cf6",
     "bytes": 1482677
+  },
+  {
+    "source": "kouign-matched-toast.png",
+    "file": "kouign-matched-toast-d43dc9a85d0f.png",
+    "url": "https://ecimg.cafe24img.com/pg3547b37711334091/nayoonk/web/upload/crunchbut/kouign-matched-toast-d43dc9a85d0f.png",
+    "sha256": "d43dc9a85d0fe9c057bb06998692ae507836ae6efec0150443c479ed3d979917",
+    "bytes": 2443310
   }
 ]
